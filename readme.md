@@ -11,10 +11,7 @@ git clone -b master https://gitee.com/immyw/hexo-theme-butterfly.git themes/butt
 ```
 
 修改themes/butterfly/_config.yml配置文件
-```yaml
-author: kangyueyue
-language: cn
-
+```yml
 link: https://github.com/kangyueyue/my-blog
 ```
 
