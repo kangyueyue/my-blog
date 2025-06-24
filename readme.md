@@ -10,11 +10,6 @@ npm install -g hexo-cli
 git clone -b master https://gitee.com/immyw/hexo-theme-butterfly.git themes/butterfly
 ```
 
-修改themes/butterfly/_config.yml配置文件
-```yml
-link: https://github.com/kangyueyue/my-blog
-```
-
 安装plugin
 ```bash
 npm install hexo-renderer-pug hexo-renderer-stylus --save
