@@ -45,8 +45,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/kangyueyue || Github || '#24292e'
   fas fa-envelope: mailto:messizuo@gmail.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/kangyueyue || Github || '#24292e'
 
 # --------------------------------------
 # Image Settings
@@ -147,7 +147,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -283,7 +283,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow me github
+      text: Follow my github
       link: https://github.com/kangyueyue/my-blog
   card_announcement:
     enable: true

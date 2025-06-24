@@ -1,7 +1,6 @@
 ---
 title: 搭建win11和Ubuntu双系统保姆级教程(不使用U盘)
-keywords: windows,Linux,Ubuntu,双系统
-description: 双系统安装教程
+copyright_url: https://github.com
 cover: /img/linux-151619_1280.png
 ---
 
